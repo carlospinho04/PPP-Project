@@ -206,7 +206,10 @@ void menu(List lglobal,List lespera,List lvermelha,List lamarela,List lverde){
 
 int main(){
 	List lglobal, lespera, lvermelha, lamarela, lverde;
-	
+  
+  int x = 2;
+  int y = 3;
+  long q = a;
 	lglobal=cria_lista();
 	lespera=cria_lista();
 	lvermelha=cria_lista();
